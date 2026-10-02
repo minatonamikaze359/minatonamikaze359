@@ -9,7 +9,7 @@ Passionate about building scalable web applications, clean user interfaces, and 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [PORTFOLIO](http://luxurystudioweb.com/Portfolio)
 * ✉️  You can contact me at [minatotechx@gmail.com](mailto:minatotechx@gmail.com)
-* 🚀  I'm currently working on [ANIME](http://luxurystudioweb.com/Anime)
+* 🚀  I'm currently working on [RECONX](http://github.com/minatonamikaze359/ReconX)
 * 🧠  I'm currently learning TypeScript and Next.js
 * 👥  I'm looking to collaborate on Open Source Web Projects
 * 💬  Ask me about Specialty coffee is my Senzu Bean, and I speed-solve Rubik's cubes like Light Yagami writing in a notebook. ☕📓
